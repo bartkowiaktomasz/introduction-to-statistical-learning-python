@@ -6,3 +6,4 @@ Solutions (in Python) to exercises from [ISLR book (An Introduction to Statistic
 - [Chapter 2: Statistical Learning](notebooks/Chapter_2.ipynb)
 - [Chapter 3: Linear Regression](notebooks/Chapter_3.ipynb)
 - [Chapter 4: Classification](notebooks/Chapter_4.ipynb)
+- [Chapter 5: Resampling Methods](notebooks/Chapter_5.ipynb)
